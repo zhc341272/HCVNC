@@ -1,7 +1,7 @@
 # HCVNC
 A vnc client dll for c#, written in c/c++ and c#, depends on TightVnc 2.7.10, so it can use Tight to push screen faster than vncsharp use less wifi.<br>
 It contains a core dll:`HCVncCore.dll`, a common dll:`HCVNC.dll`.<br>
-One thing you need to know that 1.0.0 can only to show screen, can not control or send any file.
+One thing you need to know that 1.0.0 can only to show screen, can not control or send any file.<br>
 Email:390088762@qq.com
 # How To Use
 Those dlls depend on .Net 4.0, so you can use them on XP.<br><br>
